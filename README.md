@@ -3,7 +3,7 @@
 --------
 
 ![walkthrough video](./assets/sqlvideo.gif)
-
+Click here for video [walkthrough video](./assets/sqlvideo.gif)
 --------
 
 ## SQL-Employee-Tracker is a (CMS) content management system to manage a company's employee database.
